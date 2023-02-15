@@ -1,2 +1,2 @@
-# Nubank-App-Clone-Flutter
+# ToDo-List-Flutter
 Repositório criado para fazer um clone do app da nubank em flutter visando o estudo da linguagem.
